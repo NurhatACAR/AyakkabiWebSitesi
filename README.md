@@ -1,21 +1,22 @@
 # AyakkabiWebSitesi
 
-![1](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/bc66f95f-72f0-46b5-801c-9994a540b79f)
+![1](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/d4d6898e-9c10-4d38-a99e-698aa6307969)
 
 
-![2](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/acee3d85-9a51-4ce6-9fcf-f723e790db0d)
+![2](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/5a7c5ab2-90e1-4d51-9a93-6ba3a0179298)
 
 
-![3](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/80808ca0-805f-4c4b-8bf6-aabaa3f171df)
+![3](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/8133ab99-fb15-4141-b917-95c44d0d465e)
 
 
-![4](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/1013cc1c-b0c1-4f87-ad69-1ade8f588536)
+![4](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/45413e37-78fe-429d-8958-8fda8cc3ab36)
 
 
-![5](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/3b497eb6-b806-4931-8ee3-06c26596dbd6)
+![5](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/ea920877-6be9-427e-8d6b-f47241d1f778)
 
 
-![6](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/c9d3eed3-6d16-4c20-98da-293afd0699bf)
+![6](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/692aece2-3ac5-4aa6-8d57-ff8b04e452e6)
 
 
-![7](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/e200a96e-696c-4518-bd61-afdba8e69e86)
+![7](https://github.com/NurhatACAR/AyakkabiWebSitesi/assets/108888773/012ca81f-321d-4ae6-814f-7a858fff8da4)
+
